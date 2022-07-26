@@ -1,0 +1,136 @@
+body{
+    overflow-x: hidden;
+}
+.navbar-logo-txt{
+    font-weight: 700;
+    color: #3E3E3E;
+}
+.nav-items{
+    font-weight: 500;
+    color: #3E3E3E;
+}
+
+.slider-caption{
+    font-weight: 700;
+    font-size: 48px;
+}
+.slider-paragraph{
+    font-size: 15px;
+    font-weight: 100;
+}
+.slider-btn:hover{
+    color: #3E3E3E;
+    border: 1px solid #3E3E3E;
+}
+.btn-txt{
+    font-size: 16px;
+    font-weight: 800;
+}
+.showcase-txt{
+    font-size: 30px;
+    font-weight: 700;
+}
+.showcase-p{
+    font-size: 16px;
+    font-weight: 500;
+}
+.pkg-caption{
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.pkg-price{
+    font-size: 30px;
+    font-weight: 700;
+}
+.pkg-title{
+    font-size: 25px;
+    font-weight: 700;
+}
+.pkg-p{
+    font-size: 15px;
+    font-weight: 400;
+}
+.pkg-options{
+    font-size: 15px;
+    font-weight: 400;
+}
+.pkg-btn{
+    font-weight: 500;
+}
+.pkg-btn:hover{
+    color: #3E3E3E;
+    border: 1px solid #3E3E3E;
+}
+.active-pkg{
+    position: relative;
+    left: 10px;
+    top: -80px;
+}
+.packages{
+    position: relative;
+    top: 100px;   
+}
+.client-caption{
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.client-p{
+    font-weight: 400;
+    font-size: 15px;
+    color: #6C6C6C;
+}
+.client-name{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: #0C1920;
+
+}
+.client-position{
+    font-size: 15px;
+    font-weight: 500;
+    color: #747474;
+}
+.faq-caption{
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.toaster{
+    border-left: 8px solid #0d6efd;
+    position: relative;
+    top: 150px;
+    left: 900px;
+    z-index: 2;
+}
+.toast-txt{
+    font-size: 15px;
+    font-weight: 500;
+    color: #505050;
+}
+.mainsection{
+    margin-bottom: 200px;
+}
+.footer-bg{
+    background-color: #0B0D17;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.footer-title{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.footer-copyright{
+    font-size: 15px;
+    font-weight: 300;
+}
+.socials .social-options a{
+    text-decoration: none;
+    font-size: 30px;
+}
